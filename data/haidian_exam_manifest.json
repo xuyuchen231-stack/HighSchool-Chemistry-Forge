@@ -1,0 +1,311 @@
+{
+  "id": "haidian-2026-2027-grade12-midterm",
+  "title": "海淀区2026—2027学年第一学期期中练习 高三化学",
+  "pages": 8,
+  "total_points": 100,
+  "duration_minutes": 90,
+  "answer_key_supplied": false,
+  "questions": [
+    {
+      "number": 1,
+      "kind": "single_choice",
+      "page": 1,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 2,
+      "kind": "single_choice",
+      "page": 1,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 3,
+      "kind": "single_choice",
+      "page": 1,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 4,
+      "kind": "single_choice",
+      "page": 1,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 5,
+      "kind": "single_choice",
+      "page": 2,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 6,
+      "kind": "single_choice",
+      "page": 2,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 7,
+      "kind": "single_choice",
+      "page": 2,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 8,
+      "kind": "single_choice",
+      "page": 2,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 9,
+      "kind": "single_choice",
+      "page": 2,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 10,
+      "kind": "single_choice",
+      "page": 3,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 11,
+      "kind": "single_choice",
+      "page": 3,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 12,
+      "kind": "single_choice",
+      "page": 3,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 13,
+      "kind": "single_choice",
+      "page": 4,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 14,
+      "kind": "single_choice",
+      "page": 4,
+      "status": "verified",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 15,
+      "kind": "constructed_response",
+      "page": 5,
+      "status": "verified",
+      "items": [
+        "1.electrons",
+        "1.block",
+        "2.i.coordination",
+        "2.ii.density",
+        "3.i.equation",
+        "3.ii.vitamin",
+        "3.iii.valence"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 16,
+      "kind": "constructed_response",
+      "page": 5,
+      "status": "verified",
+      "items": [
+        "1.equation",
+        "2.i.HCl",
+        "2.ii.extraction",
+        "2.iii.side_reaction",
+        "3.i.reduction",
+        "3.ii.oxidation",
+        "4.slow_release"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 17,
+      "kind": "constructed_response",
+      "page": 6,
+      "status": "verified",
+      "items": [
+        "1.Hess",
+        "2.a",
+        "2.b",
+        "2.c",
+        "2.d",
+        "3.conversion",
+        "4.i.gasification",
+        "4.ii.reforming",
+        "5.oxygen"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 18,
+      "kind": "constructed_response",
+      "page": 7,
+      "status": "verified",
+      "items": [
+        "1.powder",
+        "2.balance",
+        "3.b.HCl_volatility",
+        "4.aluminium_pH",
+        "5.NaOH",
+        "6.oxalate"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    },
+    {
+      "number": 19,
+      "kind": "constructed_response",
+      "page": 8,
+      "status": "verified",
+      "items": [
+        "1.generator",
+        "2.wash_bottle",
+        "3.MnSO4",
+        "4.Na2CO3",
+        "5.sulfate_test",
+        "6.a",
+        "6.b",
+        "6.c",
+        "6.d",
+        "7.SO2_source"
+      ],
+      "evidence": "references/haidian-regression.md; data/haidian_verified.json; final QA report"
+    }
+  ],
+  "topics_by_question": {
+    "2": [
+      "电子式",
+      "空间构型",
+      "电子排布"
+    ],
+    "7": [
+      "氧还原",
+      "能量图"
+    ],
+    "11": [
+      "配位键",
+      "杂化",
+      "酸碱平衡"
+    ],
+    "15": [
+      "晶胞",
+      "氧化还原滴定"
+    ],
+    "17": [
+      "盖斯定律",
+      "化学平衡",
+      "图像"
+    ],
+    "18": [
+      "工业流程",
+      "沉淀平衡"
+    ],
+    "19": [
+      "实验设计",
+      "氧化还原",
+      "产物检验"
+    ]
+  },
+  "note": "Original prompts only; no official key supplied. Verified means item-reviewed for this release, not automated scientific certification."
+}

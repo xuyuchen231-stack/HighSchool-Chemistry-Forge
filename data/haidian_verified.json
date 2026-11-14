@@ -1,0 +1,880 @@
+{
+  "version": "0.7",
+  "official_key": false,
+  "questions": [
+    {
+      "number": 1,
+      "answer": "B",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 3,
+      "answer": "C",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 4,
+      "answer": "D",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 5,
+      "answer": "D",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 6,
+      "answer": "A",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 8,
+      "answer": "D",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 9,
+      "answer": "B",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 10,
+      "answer": "D",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 13,
+      "answer": "B",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 14,
+      "answer": "C",
+      "options": {
+        "A": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "B": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "C": {
+          "present": true,
+          "review": "independently_reviewed"
+        },
+        "D": {
+          "present": true,
+          "review": "independently_reviewed"
+        }
+      },
+      "status": "verified"
+    },
+    {
+      "number": 15,
+      "items": [
+        "1.electrons",
+        "1.block",
+        "2.i.coordination",
+        "2.ii.density",
+        "3.i.equation",
+        "3.ii.vitamin",
+        "3.iii.valence"
+      ],
+      "status": "verified"
+    },
+    {
+      "number": 16,
+      "items": [
+        "1.equation",
+        "2.i.HCl",
+        "2.ii.extraction",
+        "2.iii.side_reaction",
+        "3.i.reduction",
+        "3.ii.oxidation",
+        "4.slow_release"
+      ],
+      "status": "verified"
+    },
+    {
+      "number": 17,
+      "items": [
+        "1.Hess",
+        "2.a",
+        "2.b",
+        "2.c",
+        "2.d",
+        "3.conversion",
+        "4.i.gasification",
+        "4.ii.reforming",
+        "5.oxygen"
+      ],
+      "status": "verified"
+    },
+    {
+      "number": 18,
+      "items": [
+        "1.powder",
+        "2.balance",
+        "3.b.HCl_volatility",
+        "4.aluminium_pH",
+        "5.NaOH",
+        "6.oxalate"
+      ],
+      "status": "verified"
+    },
+    {
+      "number": 19,
+      "items": [
+        "1.generator",
+        "2.wash_bottle",
+        "3.MnSO4",
+        "4.Na2CO3",
+        "5.sulfate_test",
+        "6.a",
+        "6.b",
+        "6.c",
+        "6.d",
+        "7.SO2_source"
+      ],
+      "status": "verified"
+    }
+  ],
+  "equations": [
+    {
+      "id": "15_oxalate",
+      "left": [
+        [
+          2,
+          "MnO4",
+          -1
+        ],
+        [
+          5,
+          "H2C2O4",
+          0
+        ],
+        [
+          6,
+          "H",
+          1
+        ]
+      ],
+      "right": [
+        [
+          2,
+          "Mn",
+          2
+        ],
+        [
+          10,
+          "CO2",
+          0
+        ],
+        [
+          8,
+          "H2O",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "16_disproportionation",
+      "left": [
+        [
+          1,
+          "Cl2",
+          0
+        ],
+        [
+          2,
+          "OH",
+          -1
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "Cl",
+          -1
+        ],
+        [
+          1,
+          "ClO",
+          -1
+        ],
+        [
+          1,
+          "H2O",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "16_side",
+      "left": [
+        [
+          1,
+          "ClO3",
+          -1
+        ],
+        [
+          5,
+          "Cl",
+          -1
+        ],
+        [
+          6,
+          "H",
+          1
+        ]
+      ],
+      "right": [
+        [
+          3,
+          "Cl2",
+          0
+        ],
+        [
+          3,
+          "H2O",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "16_chlorite",
+      "left": [
+        [
+          1,
+          "ClO",
+          -1
+        ],
+        [
+          1,
+          "ClO2",
+          -1
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "Cl",
+          -1
+        ],
+        [
+          1,
+          "ClO3",
+          -1
+        ]
+      ]
+    },
+    {
+      "id": "16_HOCl",
+      "left": [
+        [
+          1,
+          "HClO",
+          0
+        ],
+        [
+          1,
+          "ClO2",
+          -1
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "Cl",
+          -1
+        ],
+        [
+          1,
+          "ClO3",
+          -1
+        ],
+        [
+          1,
+          "H",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "17_gasification",
+      "left": [
+        [
+          1,
+          "C",
+          0
+        ],
+        [
+          1,
+          "H2O",
+          0
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "CO",
+          0
+        ],
+        [
+          1,
+          "H2",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "17_steam_reforming",
+      "left": [
+        [
+          1,
+          "CH4",
+          0
+        ],
+        [
+          1,
+          "H2O",
+          0
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "CO",
+          0
+        ],
+        [
+          3,
+          "H2",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "18_leach",
+      "left": [
+        [
+          8,
+          "LiCoO2",
+          0
+        ],
+        [
+          1,
+          "S2O3",
+          -2
+        ],
+        [
+          22,
+          "H",
+          1
+        ]
+      ],
+      "right": [
+        [
+          2,
+          "SO4",
+          -2
+        ],
+        [
+          8,
+          "Co",
+          2
+        ],
+        [
+          8,
+          "Li",
+          1
+        ],
+        [
+          11,
+          "H2O",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "18_iron",
+      "left": [
+        [
+          2,
+          "Fe",
+          2
+        ],
+        [
+          1,
+          "ClO",
+          -1
+        ],
+        [
+          5,
+          "H2O",
+          0
+        ]
+      ],
+      "right": [
+        [
+          2,
+          "FeO3H3",
+          0
+        ],
+        [
+          1,
+          "Cl",
+          -1
+        ],
+        [
+          4,
+          "H",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "19_generator",
+      "left": [
+        [
+          1,
+          "Cu",
+          0
+        ],
+        [
+          2,
+          "H2SO4",
+          0
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "CuSO4",
+          0
+        ],
+        [
+          1,
+          "SO2",
+          0
+        ],
+        [
+          2,
+          "H2O",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "19_sulfate",
+      "left": [
+        [
+          1,
+          "MnO2",
+          0
+        ],
+        [
+          1,
+          "SO2",
+          0
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "MnSO4",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "19_dithionate",
+      "left": [
+        [
+          1,
+          "MnO2",
+          0
+        ],
+        [
+          2,
+          "SO2",
+          0
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "MnS2O6",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "19_thermal",
+      "left": [
+        [
+          1,
+          "Na2S2O6",
+          0
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "Na2SO4",
+          0
+        ],
+        [
+          1,
+          "SO2",
+          0
+        ]
+      ]
+    },
+    {
+      "id": "19_competition",
+      "left": [
+        [
+          1,
+          "BaSO3",
+          0
+        ],
+        [
+          1,
+          "CO3",
+          -2
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "BaCO3",
+          0
+        ],
+        [
+          1,
+          "SO3",
+          -2
+        ]
+      ]
+    },
+    {
+      "id": "19_oxidation",
+      "left": [
+        [
+          2,
+          "SO3",
+          -2
+        ],
+        [
+          1,
+          "O2",
+          0
+        ]
+      ],
+      "right": [
+        [
+          2,
+          "SO4",
+          -2
+        ]
+      ]
+    },
+    {
+      "id": "14_bicarbonate",
+      "left": [
+        [
+          1,
+          "Fe",
+          2
+        ],
+        [
+          2,
+          "HCO3",
+          -1
+        ]
+      ],
+      "right": [
+        [
+          1,
+          "FeCO3",
+          0
+        ],
+        [
+          1,
+          "CO2",
+          0
+        ],
+        [
+          1,
+          "H2O",
+          0
+        ]
+      ]
+    }
+  ],
+  "ph_window": {
+    "step": "precipitate_aluminium",
+    "lower": 4.7,
+    "upper": 6.3,
+    "upper_inclusive": false
+  },
+  "q19_7": "agree_possible_SO2_source",
+  "review_basis": "Original eight pages; independent solve and independent review; disagreements adjudicated by source, conservation and NIST/IUPAC evidence.",
+  "q16_2ii_answer": "Cl₂、CCl₄为非极性分子，ClO₂为极性分子；根据相似相溶原理，ClO₂不易溶于CCl₄，而Cl₂易溶于CCl₄，因此可用CCl₄除去混合气体中的Cl₂。"
+}

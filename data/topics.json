@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "scope": "generic Chinese senior high school chemistry; not an official textbook mapping",
+  "topics": [
+    {
+      "id": "stoichiometry",
+      "name": "物质的量与化学计量",
+      "prerequisites": []
+    },
+    {
+      "id": "ionic",
+      "name": "电解质与离子反应",
+      "prerequisites": [
+        "stoichiometry"
+      ]
+    },
+    {
+      "id": "redox",
+      "name": "氧化还原反应",
+      "prerequisites": [
+        "stoichiometry"
+      ]
+    },
+    {
+      "id": "atomic",
+      "name": "原子结构与元素周期律",
+      "prerequisites": []
+    },
+    {
+      "id": "bonding",
+      "name": "化学键与物质结构",
+      "prerequisites": [
+        "atomic"
+      ]
+    },
+    {
+      "id": "elements",
+      "name": "元素及其化合物",
+      "prerequisites": [
+        "ionic",
+        "redox",
+        "atomic"
+      ]
+    },
+    {
+      "id": "kinetics",
+      "name": "反应速率与化学平衡",
+      "prerequisites": [
+        "stoichiometry"
+      ]
+    },
+    {
+      "id": "thermo",
+      "name": "反应热与热化学",
+      "prerequisites": [
+        "stoichiometry"
+      ]
+    },
+    {
+      "id": "aqueous",
+      "name": "水溶液中的离子平衡",
+      "prerequisites": [
+        "ionic",
+        "kinetics"
+      ]
+    },
+    {
+      "id": "electrochem",
+      "name": "电化学",
+      "prerequisites": [
+        "redox",
+        "ionic"
+      ]
+    },
+    {
+      "id": "structure",
+      "name": "轨道、分子空间结构与晶体",
+      "prerequisites": [
+        "atomic",
+        "bonding"
+      ]
+    },
+    {
+      "id": "organic",
+      "name": "有机化学基础与合成",
+      "prerequisites": [
+        "bonding"
+      ]
+    },
+    {
+      "id": "experiments",
+      "name": "实验基础与定量分析",
+      "prerequisites": [
+        "stoichiometry",
+        "ionic"
+      ]
+    }
+  ]
+}

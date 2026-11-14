@@ -1,0 +1,26 @@
+{
+  "release": "0.7",
+  "default_reader": "有一点化学基础，但知识不连贯、解题不熟练的学生",
+  "changes": [
+    "逐项先用直白语言解释对错，再补原理",
+    "关键新术语随文解释",
+    "直接解题与知识延伸分开",
+    "每题共用知识集中讲，取消每选项重复完整基础课的要求",
+    "首页参考答案仍保留完整得分点"
+  ],
+  "structural_checks": "passed",
+  "chemistry_regression": "passed: 19 questions, 56 choice entries, 16 equations, titration/Hess/pH checks",
+  "student_style_trial": {
+    "tasks": [
+      "N/O四选项比较",
+      "K2SO4浓度与离子总数判断"
+    ],
+    "review": "passed representative task review; terms explained, all four options covered, corrected false statements, intermediate calculations shown",
+    "verified_answers": [
+      "题甲C",
+      "题乙错误；500mL示例含0.100NA个K+"
+    ],
+    "limits": "两道代表题用于检验写法，未声称现有41页PDF已按v0.7整卷重写。"
+  },
+  "legacy_fixture": "assets/haidian_lessons.txt retains v0.6 chemistry content for reproducibility; not a v0.7 style exemplar."
+}
