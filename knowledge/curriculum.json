@@ -1,0 +1,922 @@
+{
+  "scope": "2017版2020年修订课程标准，人教版五册为默认组织",
+  "modules": [
+    {
+      "id": "M01",
+      "name": "必修第一册",
+      "topics": [
+        {
+          "id": "M01-C01-T01",
+          "chapter": "物质及其变化",
+          "title": "物质的分类与分散系",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C01-T02",
+          "chapter": "物质及其变化",
+          "title": "酸碱盐及其转化",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C01-T03",
+          "chapter": "物质及其变化",
+          "title": "电解质与非电解质",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C01-T04",
+          "chapter": "物质及其变化",
+          "title": "电离与离子方程式",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C01-T05",
+          "chapter": "物质及其变化",
+          "title": "离子共存与离子检验",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C01-T06",
+          "chapter": "物质及其变化",
+          "title": "氧化还原反应与化合价",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C01-T07",
+          "chapter": "物质及其变化",
+          "title": "氧化剂还原剂及氧化还原配平",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C02-T01",
+          "chapter": "海水中的重要元素",
+          "title": "钠的性质与保存",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C02-T02",
+          "chapter": "海水中的重要元素",
+          "title": "氧化钠与过氧化钠",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C02-T03",
+          "chapter": "海水中的重要元素",
+          "title": "碳酸钠与碳酸氢钠",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C02-T04",
+          "chapter": "海水中的重要元素",
+          "title": "焰色试验",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C02-T05",
+          "chapter": "海水中的重要元素",
+          "title": "氯气的制备和性质",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C02-T06",
+          "chapter": "海水中的重要元素",
+          "title": "氯水与次氯酸",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C02-T07",
+          "chapter": "海水中的重要元素",
+          "title": "氯离子检验",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C03-T01",
+          "chapter": "物质的量",
+          "title": "物质的量与阿伏加德罗常数",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C03-T02",
+          "chapter": "物质的量",
+          "title": "摩尔质量与物质的量计算",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C03-T03",
+          "chapter": "物质的量",
+          "title": "气体摩尔体积",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C03-T04",
+          "chapter": "物质的量",
+          "title": "物质的量浓度",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C03-T05",
+          "chapter": "物质的量",
+          "title": "一定物质的量浓度溶液的配制",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C03-T06",
+          "chapter": "物质的量",
+          "title": "化学方程式计量计算",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C04-T01",
+          "chapter": "铁与材料",
+          "title": "铁及其氧化物和氢氧化物",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C04-T02",
+          "chapter": "铁与材料",
+          "title": "二价铁与三价铁的转化和检验",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C04-T03",
+          "chapter": "铁与材料",
+          "title": "金属材料与合金",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C05-T01",
+          "chapter": "物质结构与周期律",
+          "title": "原子组成与同位素",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C05-T02",
+          "chapter": "物质结构与周期律",
+          "title": "核外电子排布初步",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C05-T03",
+          "chapter": "物质结构与周期律",
+          "title": "元素周期表结构",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C05-T04",
+          "chapter": "物质结构与周期律",
+          "title": "元素周期律与性质递变",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M01-C05-T05",
+          "chapter": "物质结构与周期律",
+          "title": "化学键与物质构成",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        }
+      ]
+    },
+    {
+      "id": "M02",
+      "name": "必修第二册",
+      "topics": [
+        {
+          "id": "M02-C01-T01",
+          "chapter": "化工与资源",
+          "title": "硫及其氧化物",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C01-T02",
+          "chapter": "化工与资源",
+          "title": "硫酸与硫酸根检验",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C01-T03",
+          "chapter": "化工与资源",
+          "title": "氮及其氧化物",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C01-T04",
+          "chapter": "化工与资源",
+          "title": "氨和铵盐",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C01-T05",
+          "chapter": "化工与资源",
+          "title": "硝酸的性质",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C01-T06",
+          "chapter": "化工与资源",
+          "title": "环境污染与绿色化学",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C01-T07",
+          "chapter": "化工与资源",
+          "title": "无机非金属材料",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C02-T01",
+          "chapter": "反应与能量",
+          "title": "化学反应与能量变化",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C02-T02",
+          "chapter": "反应与能量",
+          "title": "原电池初步",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C02-T03",
+          "chapter": "反应与能量",
+          "title": "化学反应速率初步",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C02-T04",
+          "chapter": "反应与能量",
+          "title": "化学反应限度与可逆反应",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C03-T01",
+          "chapter": "有机化学初步",
+          "title": "甲烷与烷烃",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C03-T02",
+          "chapter": "有机化学初步",
+          "title": "乙烯与烯烃",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C03-T03",
+          "chapter": "有机化学初步",
+          "title": "苯与芳香烃",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C03-T04",
+          "chapter": "有机化学初步",
+          "title": "乙醇与乙酸",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C03-T05",
+          "chapter": "有机化学初步",
+          "title": "酯化反应",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C03-T06",
+          "chapter": "有机化学初步",
+          "title": "糖类油脂蛋白质",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C03-T07",
+          "chapter": "有机化学初步",
+          "title": "高分子材料",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C04-T01",
+          "chapter": "化学与可持续发展",
+          "title": "自然资源综合利用",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C04-T02",
+          "chapter": "化学与可持续发展",
+          "title": "海水资源与化石资源",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M02-C04-T03",
+          "chapter": "化学与可持续发展",
+          "title": "化学品安全与可持续发展",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        }
+      ]
+    },
+    {
+      "id": "M03",
+      "name": "选择性必修1 化学反应原理",
+      "topics": [
+        {
+          "id": "M03-C01-T01",
+          "chapter": "热化学",
+          "title": "反应热与焓变",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C01-T02",
+          "chapter": "热化学",
+          "title": "热化学方程式",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C01-T03",
+          "chapter": "热化学",
+          "title": "盖斯定律与反应热计算",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C01-T04",
+          "chapter": "热化学",
+          "title": "燃烧热与中和反应反应热",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C02-T01",
+          "chapter": "动力学与平衡",
+          "title": "反应速率与影响因素",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C02-T02",
+          "chapter": "动力学与平衡",
+          "title": "活化能与催化剂",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C02-T03",
+          "chapter": "动力学与平衡",
+          "title": "化学平衡状态判断",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C02-T04",
+          "chapter": "动力学与平衡",
+          "title": "化学平衡常数",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C02-T05",
+          "chapter": "动力学与平衡",
+          "title": "浓度压强温度对平衡的影响",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C02-T06",
+          "chapter": "动力学与平衡",
+          "title": "勒夏特列原理适用范围",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C02-T07",
+          "chapter": "动力学与平衡",
+          "title": "平衡转化率与计算",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C03-T01",
+          "chapter": "水溶液平衡",
+          "title": "弱电解质电离平衡",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C03-T02",
+          "chapter": "水溶液平衡",
+          "title": "水的电离与pH",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C03-T03",
+          "chapter": "水溶液平衡",
+          "title": "酸碱中和滴定",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C03-T04",
+          "chapter": "水溶液平衡",
+          "title": "盐类水解",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C03-T05",
+          "chapter": "水溶液平衡",
+          "title": "沉淀溶解平衡与Ksp",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C03-T06",
+          "chapter": "水溶液平衡",
+          "title": "多重平衡与溶液中守恒",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C04-T01",
+          "chapter": "电化学",
+          "title": "原电池工作原理",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C04-T02",
+          "chapter": "电化学",
+          "title": "化学电源",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C04-T03",
+          "chapter": "电化学",
+          "title": "电解池原理",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C04-T04",
+          "chapter": "电化学",
+          "title": "电解规律与电极反应",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M03-C04-T05",
+          "chapter": "电化学",
+          "title": "金属腐蚀与防护",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        }
+      ]
+    },
+    {
+      "id": "M04",
+      "name": "选择性必修2 物质结构与性质",
+      "topics": [
+        {
+          "id": "M04-C01-T01",
+          "chapter": "原子结构",
+          "title": "原子轨道与量子数基础",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C01-T02",
+          "chapter": "原子结构",
+          "title": "构造原理与电子排布式",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C01-T03",
+          "chapter": "原子结构",
+          "title": "泡利原理与洪特规则",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C01-T04",
+          "chapter": "原子结构",
+          "title": "电离能与电负性",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C01-T05",
+          "chapter": "原子结构",
+          "title": "元素周期律的结构解释",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C02-T01",
+          "chapter": "分子结构",
+          "title": "共价键的形成与类型",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C02-T02",
+          "chapter": "分子结构",
+          "title": "键参数与分子性质",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C02-T03",
+          "chapter": "分子结构",
+          "title": "价层电子对互斥模型",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C02-T04",
+          "chapter": "分子结构",
+          "title": "杂化轨道与空间构型",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C02-T05",
+          "chapter": "分子结构",
+          "title": "极性分子与非极性分子",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C02-T06",
+          "chapter": "分子结构",
+          "title": "配位键与配合物",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C02-T07",
+          "chapter": "分子结构",
+          "title": "分子间作用力与氢键",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T01",
+          "chapter": "晶体结构",
+          "title": "晶体与非晶体",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T02",
+          "chapter": "晶体结构",
+          "title": "晶胞与均摊计数",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T03",
+          "chapter": "晶体结构",
+          "title": "分子晶体",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T04",
+          "chapter": "晶体结构",
+          "title": "共价晶体",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T05",
+          "chapter": "晶体结构",
+          "title": "离子晶体",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T06",
+          "chapter": "晶体结构",
+          "title": "金属晶体",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T07",
+          "chapter": "晶体结构",
+          "title": "晶体密度与结构计算",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M04-C03-T08",
+          "chapter": "晶体结构",
+          "title": "晶体结构与材料性质",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        }
+      ]
+    },
+    {
+      "id": "M05",
+      "name": "选择性必修3 有机化学基础",
+      "topics": [
+        {
+          "id": "M05-C01-T01",
+          "chapter": "有机结构",
+          "title": "有机物分类与官能团",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C01-T02",
+          "chapter": "有机结构",
+          "title": "碳原子成键与同分异构",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C01-T03",
+          "chapter": "有机结构",
+          "title": "有机物命名",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C01-T04",
+          "chapter": "有机结构",
+          "title": "有机物分离提纯与结构测定",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C02-T01",
+          "chapter": "烃",
+          "title": "烷烃与环烷烃",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C02-T02",
+          "chapter": "烃",
+          "title": "烯烃与炔烃",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C02-T03",
+          "chapter": "烃",
+          "title": "芳香烃",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C03-T01",
+          "chapter": "烃的衍生物",
+          "title": "卤代烃与取代消去",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C03-T02",
+          "chapter": "烃的衍生物",
+          "title": "醇与酚",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C03-T03",
+          "chapter": "烃的衍生物",
+          "title": "醛与酮",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C03-T04",
+          "chapter": "烃的衍生物",
+          "title": "羧酸与酯",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C03-T05",
+          "chapter": "烃的衍生物",
+          "title": "有机反应类型与反应条件",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C04-T01",
+          "chapter": "生物有机与高分子",
+          "title": "糖类与核酸基础",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C04-T02",
+          "chapter": "生物有机与高分子",
+          "title": "氨基酸蛋白质",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C04-T03",
+          "chapter": "生物有机与高分子",
+          "title": "合成高分子及聚合反应",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M05-C04-T04",
+          "chapter": "生物有机与高分子",
+          "title": "有机合成路线设计",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        }
+      ]
+    },
+    {
+      "id": "M06",
+      "name": "选修与拓展",
+      "topics": [
+        {
+          "id": "M06-C01-T01",
+          "chapter": "实验化学",
+          "title": "实验室安全与风险",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C01-T02",
+          "chapter": "实验化学",
+          "title": "气体制备净化收集",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C01-T03",
+          "chapter": "实验化学",
+          "title": "物质检验与分离",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C01-T04",
+          "chapter": "实验化学",
+          "title": "滴定误差分析",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C01-T05",
+          "chapter": "实验化学",
+          "title": "实验设计与变量控制",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C02-T01",
+          "chapter": "化学与社会",
+          "title": "能源材料与电池",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C02-T02",
+          "chapter": "化学与社会",
+          "title": "环境化学与绿色工艺",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C02-T03",
+          "chapter": "化学与社会",
+          "title": "医药食品与化学",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C03-T01",
+          "chapter": "发展中的化学科学",
+          "title": "现代分析方法概览",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        },
+        {
+          "id": "M06-C03-T02",
+          "chapter": "发展中的化学科学",
+          "title": "新材料与催化概览",
+          "status": "index_only",
+          "learning_level": "高中课程/高考专题"
+        }
+      ]
+    },
+    {
+      "id": "M07",
+      "name": "跨模块高考专题",
+      "topics": [
+        {
+          "id": "M07-C01-T01",
+          "chapter": "综合解题",
+          "title": "元素推断与周期律综合",
+          "status": "index_only",
+          "learning_level": "拓展"
+        },
+        {
+          "id": "M07-C01-T02",
+          "chapter": "综合解题",
+          "title": "工业流程题",
+          "status": "index_only",
+          "learning_level": "拓展"
+        },
+        {
+          "id": "M07-C01-T03",
+          "chapter": "综合解题",
+          "title": "实验探究综合题",
+          "status": "index_only",
+          "learning_level": "拓展"
+        },
+        {
+          "id": "M07-C01-T04",
+          "chapter": "综合解题",
+          "title": "化学计算与守恒法",
+          "status": "index_only",
+          "learning_level": "拓展"
+        },
+        {
+          "id": "M07-C01-T05",
+          "chapter": "综合解题",
+          "title": "图像分析与数据处理",
+          "status": "index_only",
+          "learning_level": "拓展"
+        },
+        {
+          "id": "M07-C01-T06",
+          "chapter": "综合解题",
+          "title": "有机推断与合成",
+          "status": "index_only",
+          "learning_level": "拓展"
+        },
+        {
+          "id": "M07-C01-T07",
+          "chapter": "综合解题",
+          "title": "结构化学综合",
+          "status": "index_only",
+          "learning_level": "拓展"
+        },
+        {
+          "id": "M07-C01-T08",
+          "chapter": "综合解题",
+          "title": "反应原理综合",
+          "status": "index_only",
+          "learning_level": "拓展"
+        }
+      ]
+    }
+  ]
+}
