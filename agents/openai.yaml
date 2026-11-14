@@ -1,0 +1,4 @@
+interface:
+  display_name: "HighSchool Chemistry Forge"
+  short_description: "有少量基础学生易读的化学解题、知识精讲与科学核验"
+  default_prompt: "Use $highschool-chemistry-forge to independently solve and verify the uploaded chemistry exam and create a complete self-study analysis PDF."
